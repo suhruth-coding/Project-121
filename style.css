@@ -1,0 +1,155 @@
+body{
+    background-color: gray;
+    text-align: center;
+}
+
+h1{
+    color: greenyellow;
+}
+
+h2{
+    color: greenyellow;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: orangered;
+    bottom: 0;
+    width: 100%;
+    background-color: aqua;
+    line-height: 3;
+    text-align: center;
+    font-size: 18px;
+}
+
+.object1{
+    margin: 2%;
+    background-color: orangered;
+    font-size: 18px;
+    border-radius: 12px;
+    color: cyan;
+}
+
+.object1 img{
+    padding-top: 10px;
+    border-radius: 20px;
+}
+
+.object2{
+    margin: 2%;
+    background-color: orangered;
+    font-size: 18px;
+    border-radius: 12px;
+    color: cyan;
+}
+
+.object2 img{
+    padding-top: 10px;
+    border-radius: 20px;
+}
+
+.object3{
+    margin: 2%;
+    background-color: orangered;
+    font-size: 18px;
+    border-radius: 12px;
+    color: cyan;
+}
+
+.object3 img{
+    padding-top: 10px;
+    border-radius: 20px;
+}
+
+.object4{
+    margin: 2%;
+    background-color: orangered;
+    font-size: 18px;
+    border-radius: 12px;
+    color: cyan;
+}
+
+.object4 img{
+    padding-top: 10px;
+    border-radius: 20px;
+}
+
+.object5{
+    margin: 2%;
+    background-color: orangered;
+    font-size: 18px;
+    border-radius: 12px;
+    color: cyan;
+}
+
+.object5 img{
+    padding-top: 10px;
+    border-radius: 20px;
+}
+
+.object6{
+    margin: 2%;
+    background-color: orangered;
+    font-size: 18px;
+    border-radius: 12px;
+    color: cyan;
+}
+
+.object6 img{
+    padding-top: 10px;
+    border-radius: 20px;
+}
+
+.object7{
+    margin: 2%;
+    background-color: orangered;
+    font-size: 18px;
+    border-radius: 12px;
+    color: cyan;
+}
+
+.object7 img{
+    padding-top: 10px;
+    border-radius: 20px;
+}
+
+.object8{
+    margin: 2%;
+    background-color: orangered;
+    font-size: 18px;
+    border-radius: 12px;
+    color: cyan;
+}
+
+.object8 img{
+    padding-top: 10px;
+    border-radius: 20px;
+}
+
+.object9{
+    margin: 2%;
+    background-color: orangered;
+    font-size: 18px;
+    border-radius: 12px;
+    color: cyan;
+}
+
+.object9 img{
+    padding-top: 10px;
+    border-radius: 20px;
+}
+
+.object10{
+    margin: 2%;
+    background-color: orangered;
+    font-size: 18px;
+    border-radius: 12px;
+    color: cyan;
+}
+
+.object10 img{
+    padding-top: 10px;
+    border-radius: 20px;
+}
